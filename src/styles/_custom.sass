@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 20%
 
 
 @keyframes float1
@@ -17,3 +22,98 @@
 
   100%
     transform: translateY(0px)
+
+//estilos adicionales
+
+.imgdimensioncaj
+  width: 25%
+  margin-left: 56%
+  z-index: 3
+  margin-top: -21%
+  position: absolute
+
+.bloque-texto-g.color-secundario
+  border-top-left-radius: 3em
+  border-bottom-right-radius: 3em
+  background-color: #EED9F1 
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #DFEAF1
+
+.acordion__accion__btn--a
+  background-color: #EEAC3A !important
+
+.acordion__activo
+  background-color: #fdf3e1 !important
+
+.imgdimensioncaj2
+    width: 20%
+    margin-left: 60%
+    z-index: 3
+    margin-top: -15%
+    position: absolute
+
+.imgdimensioncaj3
+    width: 19%
+    margin-left: 5%
+    z-index: 3
+    margin-top: -18%
+    position: absolute
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #64B5F6
+    width: 100%
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #E6E6E6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #F6F6F6
+
+
+.backgrouun-slider
+  background-color: #E6DDF5
+
+.slyder-a__bullets__item--active 
+    background-color: #5C22C3
+    border-color: #5C22C3
+    opacity: 1
+
+.slyder-a__bullets__item 
+    background-color: #B69CE3
+
+.acordion__activo 
+    background-color: #ECF6FE !important
+
+.tarjeta.acordeonA 
+    background-color: #AE91E1
+
+.acordion__accion__btn--a 
+    background-color: #FFFFFF !important;
+
+
+
