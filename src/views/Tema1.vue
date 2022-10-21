@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Diseño de instrumentos
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
