@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos es posible incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es posible implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones. 
+        p #[b Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos es posible incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es posible implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones. ]
 
     Separador
 
@@ -74,7 +74,7 @@
       .col-lg-1
       
     .row
-      p La selección del documento ideal para transmitir y sustentar el proceso investigativo y administrativo de cualquier empresa se encuentra ligado con el tipo de comunicación al que se quiere llegar, de igual forma es importante tener en cuenta los requerimientos que exige la empresa, ya que algunas incorporan reglas en el desarrollo de sus documentos como lo son el uso de normas APA, la adición del logotipo de la organización, entre otros.
+      p #[b La selección del documento ideal para transmitir y sustentar el proceso investigativo y administrativo de cualquier empresa se encuentra ligado con el tipo de comunicación al que se quiere llegar, de igual forma es importante tener en cuenta los requerimientos que exige la empresa, ya que algunas incorporan reglas en el desarrollo de sus documentos como lo son el uso de normas APA, la adición del logotipo de la organización, entre otros.]
 
     Separador
 
@@ -108,7 +108,7 @@
           .col-md-3.mb-4.mb-md-0
             img(src="@/assets/curso/temas/tema2/img13.png" alt="Adornos flotantes")
 
-      .py-4.py-md-5(titulo="Grupo Focal – Focus Group" :icono="require('@/assets/curso/temas/tema2/img6.png')")
+      .py-4.py-md-5(titulo="Grupo Focal – <em>Focus Group</em>" :icono="require('@/assets/curso/temas/tema2/img6.png')")
         .row.justify-content-around.align-items-center.mt-5.mb-5
           .col-md-9.mb-4.mb-md-0
             p Funciona estableciendo un grupo de personas no mayor a 10, teniendo una duración de media hora a una hora y media, buscando extraer información cualitativa relevante sobre la investigación a realizar.
@@ -169,7 +169,7 @@
               p Ya que se pueden presentar errores al seleccionar el grupo encuestado, que únicamente son evidenciados durante el paso anterior, se podrán descartar las personas que no cumplan con el perfil encuestado. 
     
       .row
-        p Es importante establecer el perfil del encuestado, no obstante, se pueden presentar errores dentro del mismo, por lo que se recomienda establecer grupos amplios de investigación, que permitan conocer las mejores respuestas o con mayor relevancia para el estudio.  
+        p #[b Es importante establecer el perfil del encuestado, no obstante, se pueden presentar errores dentro del mismo, por lo que se recomienda establecer grupos amplios de investigación, que permitan conocer las mejores respuestas o con mayor relevancia para el estudio.]  
 
     Separador
 
@@ -194,15 +194,15 @@
               ul.lista-ul--color.mt-3
                   li 
                     i.fas.fa-angle-right
-                    p.mb-0.text-small Resultados realistas y recientes.
+                    p.mb-0.text-small Permite que el encuestado conozca la importancia del estudio.
 
                   li 
                     i.fas.fa-angle-right
-                    p.mb-0.text-small Conocer el proceso que realizan otras empresas.
+                    p.mb-0.text-small Impulsa a la necesidad de contribuir con la investigación.
 
                   li 
                     i.fas.fa-angle-right
-                    p.mb-0.text-small Conocer el proceso que realizan otras empresas.
+                    p.mb-0.text-small Transmite tranquilidad.
 
           .row(numero="2" titulo="Segundo paso")
             .col-md-12.mb-4.mb-md-0
@@ -246,7 +246,7 @@
     #t_2_5
     
     .titulo-segundo.color-secundario.mb-5
-      h2 2.5 Muestra de recolección
+      h2 2.5 Planificación de la recolección de información
 
     .row
       p Una buena planificación en la recolección de la información facilita el análisis de la información recolectada, es por eso por lo que las empresas u organizaciones desarrollan planes previos a la recolección de la información, entre los que se deben tener en cuenta:

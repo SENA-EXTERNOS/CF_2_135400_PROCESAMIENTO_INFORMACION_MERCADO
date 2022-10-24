@@ -164,7 +164,7 @@
                 ul.lista-ul--color.mt-3
                   li 
                     i.fas.fa-angle-right
-                    | Entrevistas individuales on-line / off-line.
+                    | Entrevistas individuales on-line / #[i off-line].
 
                   li 
                     i.fas.fa-angle-right
@@ -198,7 +198,7 @@
               .col-12
                 p.mb-0 Esta se caracteriza por buscar el motivo del porqué las personas se comportan de determinada forma en sus procesos de compra, intentando resolver la incógnita sobre qué motiva a un consumidor a adquirir determinado producto o servicio, y a establecer por qué prefieren una marca sobre otras. Esto permite a las empresas identificar las principales variables para realizar ajustes frente a sus servicios o productos. 
 
-            .row(titulo="Investigación cuantitativa")
+            .row(titulo="Investigación descriptiva")
               .col-12
                 p.mb-0 La investigación descriptiva se enfoca en describir las situaciones en las que los clientes o consumidores realizan determinada actividad dentro del proceso de mercado, este tipo de investigación solo busca delinear las características de una población específica, midiendo tendencias y comportamientos de estos. Cabe resaltar que es considerada el primer paso para el desarrollo de otras investigaciones, estableciendo las posibles preguntas a realizar.
 
@@ -304,7 +304,7 @@
         .bloque-texto-g.color-secundario.p-4.mb-4
           .row.justify-content-center            
             .col-lg-7
-              p La selección del tipo de preguntas que se van a realizar dentro de cualquier estudio investigativo dependerá únicamente del propósito y objetivo de este, de igual forma, es importante mencionar que en la mayoría de los casos será necesario establecer más de un tipo de pregunta para el desarrollo de un buen proceso investigativo. 
+              p #[b La selección del tipo de preguntas que se van a realizar dentro de cualquier estudio investigativo dependerá únicamente del propósito y objetivo de este, de igual forma, es importante mencionar que en la mayoría de los casos será necesario establecer más de un tipo de pregunta para el desarrollo de un buen proceso investigativo. ]
             .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/img20.png').imgdimensioncaj2

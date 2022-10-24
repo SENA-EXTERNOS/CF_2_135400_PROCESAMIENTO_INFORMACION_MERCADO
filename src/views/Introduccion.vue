@@ -26,9 +26,9 @@
         .bloque-texto-g.color-secundario.p-4.mb-4
           .row.justify-content-center            
             .col-lg-7
-              p En este proceso aprenderás sobre el #[b diseño de instrumentos de recolección,] los elementos que lo componen, los tipos de investigación y de preguntas y la muestra de recolección, con un enfoque en el #[b alistamiento de documentos], desde donde diferenciar los documentos, los instrumentos de recolección, el perfil del encuestado, la capacitación del encuestador y la planificación de la recolección de la información. 
+              p #[b En este proceso aprenderás sobre el diseño de instrumentos de recolección, los elementos que lo componen, los tipos de investigación y de preguntas y la muestra de recolección, con un enfoque en el #[b alistamiento de documentos], desde donde diferenciar los documentos, los instrumentos de recolección, el perfil del encuestado, la capacitación del encuestador y la planificación de la recolección de la información. ]
 
-              p La metodología del componente es teórica práctica, ya que se contextualizará al lector con definiciones y explicaciones de casos prácticos, en los cuales se les profundizará con actividades para validar el conocimiento, como lo es un taller de relacionamiento de conceptos y una guía de aprendizaje.
+              p #[b La metodología del componente es teórica práctica, ya que se contextualizará al lector con definiciones y explicaciones de casos prácticos, en los cuales se les profundizará con actividades para validar el conocimiento, como lo es un taller de relacionamiento de conceptos y una guía de aprendizaje.]
 
             .col-lg-3
         figure

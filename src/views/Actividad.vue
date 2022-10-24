@@ -11,8 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Arrastrar y soltar
-        p.mb-4 #[b Objetivo] Esta es una actividad de “Arrastrar y Soltar, donde encontrará 2 columnas: la “Columna A” - presenta las definiciones vistas a lo largo del componente y la “Columna B” entrega los posibles conceptos. 
-        p.mb-4 Usted asociará las definiciones con los conceptos correspondientes. Debe seleccionar de la Columna B, arrastrar y soltar la respuesta relacionada con las definiciones dadas en la Columna A. 
+        p.mb-4 #[b Objetivo] Esta es una actividad de “Arrastrar y Soltar, donde encontrará 2 columnas: la “#[b Columna A]” - presenta las definiciones vistas a lo largo del componente y la “#[b Columna B]” entrega los posibles conceptos. 
+        p.mb-4 Usted asociará las definiciones con los conceptos correspondientes. Debe seleccionar de la #[b Columna B], arrastrar y soltar la respuesta relacionada con las definiciones dadas en la #[b Columna A]. 
         p.mb-4 #[b ¡Adelante y mucho ánimo!]
 
         .tarjeta.actividad.p-3
