@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Instrumentos de recolección de datos',
     descripcionCurso:
-      'Los instrumentos de recolección de datos posibilitan el desarrollo investigativo de las organizaciones y el cumplimiento de sus objetivos.<br>En este componente formativo se presentan los elementos para diseñar y alistar instrumentos de recolección de información, así como la puesta en práctica de estos.',
+      'En este componente formativo se presentan los elementos para diseñar y alistar instrumentos de recolección de información, así como la puesta en práctica de estos.<br><br>Los instrumentos de recolección de datos posibilitan el desarrollo investigativo de las organizaciones y el cumplimiento de sus objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -153,25 +153,25 @@ export default {
   },
   complementario: [
     {
-      tema: 'Elementos de una investigación de mercado',
+      tema: 'Diseño de instrumentos',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA (2020). <em>Elementos de una investigación de mercado</em>. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/pR33mqevijU',
     },
     {
-      tema: 'Clasificación de tipos de investigación según objeto de estudio',
+      tema: 'Tipos de investigación',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Clasificación de tipos de investigación según objeto de estudio</em>. YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/GCZ503I6r0k',
     },
     {
-      tema: 'Fuentes y técnicas de recolección de la información',
+      tema: 'Tipos de documentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Fuentes y técnicas de recolección de la información</em>. YouTube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>FDocumentos digitales</em>. YouTube. ',
       tipo: 'Video',
-      link: 'https://youtu.be/xhTb3dSFR2M',
+      link: 'https://youtu.be/4flFQ_uh-94',
     },
     {
       tema: 'Documentos digitales',
@@ -181,9 +181,9 @@ export default {
       link: 'https://youtu.be/4flFQ_uh-94',
     },
     {
-      tema: 'Organización de los datos recopilados',
+      tema: 'Tipos de documentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Organización de los datos recopilados</em>. YouTube.',
+        'Organización de los datos recopilados (video). YouTube. https://youtu.be/vvjV66aA93Y',
       tipo: 'Video',
       link: 'https://youtu.be/vvjV66aA93Y',
     },
@@ -233,22 +233,22 @@ export default {
   referencias: [
     {
       referencia:
-        'Ebook. Sanabria Araya, F. (2018).<em> Investigación de mercados: un enfoque práctico y descriptivo</em>. Ecoe Ediciones.',
+        'Sanabria Araya, F. (2018). <em>Investigación de mercados: un enfoque práctico y descriptivo.</em> Ecoe Ediciones.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7409',
     },
     {
       referencia:
-        'Ebook. Hoyer, W. D., Pieters, R., Maclnnis, D. J. (2018). <em>Comportamiento del consumidor</em>. Cengage Learning.',
+        'Hoyer, W. D., Pieters, R. & Maclnnis, D. J. (2018).<em>Comportamiento del consumidor.</em> Cengage Learning.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7493',
     },
     {
       referencia:
-        'Ebook. Kerin, R. A., Hartley, S. W. (2019). <em>Marketing</em>. McGraw-Hill.',
+        'Kerin, R. A., Hartley, S. W. (2019). <em>Marketing</em>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9915',
     },
     {
       referencia:
-        'Ebook. Grasso, L. (2006). Encuestas: elementos para su diseño y Análisis.  Encuentro Grupo Editor.',
+        'Grasso, L. (2006).<em> Encuestas: elementos para su diseño y Análisis. </em> Encuentro Grupo Editor.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=2718',
     },
   ],

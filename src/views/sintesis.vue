@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p A continuación se presenta una síntesis de la construcción del componente formativo, es este se puede observar el entrelazamiento de las temáticas para generar un instrumento de recolección de datos:
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
    
     .row.justify-content-center
       .col-lg-10.mb-5

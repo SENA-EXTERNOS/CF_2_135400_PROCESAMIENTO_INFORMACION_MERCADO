@@ -15,13 +15,11 @@
           img(src='@/assets/curso/temas/introduccion/img1.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p En este espacio formativo ahondaremos en la competencia de aprendizaje orientada a #[b Encuestar personas según técnicas de recolección y el manual de encuestador,] a partir de la cual es posible identificar el #[b diseño de instrumentos de recolección de datos y alistar documentos para los mismos.] 
-
-        p Las empresas deben encontrar estrategias que les permitan responder a los movimientos del mercado, para ello resulta indispensable desarrollar un proceso investigativo que facilite dichas acciones. Los estudios de mercado son los encargados de llevar a cabo este proceso, haciendo uso de instrumentos de recolección periódica para ser asertivos a los requerimientos del consumidor según las políticas organizacionales y recursos disponibles.
+        p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordará el diseño de instrumentos de recolección de datos y alistamiento de documentos para los mismos.  Las empresas deben encontrar estrategias que les permitan responder a los movimientos del mercado, para ello resulta indispensable desarrollar un proceso investigativo que facilite dichas acciones. Los estudios de mercado son los encargados de llevar a cabo este proceso, haciendo uso de instrumentos de recolección periódica para ser asertivos a los requerimientos del consumidor según las políticas organizaciones y recursos disponibles.
 
     .row.justify-content-center.mt-5
       
-      .col-lg-11.sm-2         
+      .col-lg-11.sm-2           
           
         .bloque-texto-g.color-secundario.p-4.mb-4
           .row.justify-content-center            

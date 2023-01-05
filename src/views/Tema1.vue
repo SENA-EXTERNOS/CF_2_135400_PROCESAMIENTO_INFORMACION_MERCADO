@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El diseño de los instrumentos de investigación de datos define los objetivos de toda investigación y permite establecer el tipo de resultados que se quieren obtener (cuantitativos o cualitativos), este debe abarcar la mayor cantidad de interrogantes a resolver, por lo que deberá utilizar el mejor instrumento de recolección de datos.
+        p.mb-0 El diseño de los instrumentos de investigación de datos define los objetivos de toda investigación y permite establecer el tipo de resultados que se quieren obtener ya sean de carácter cuantitativos o cualitativos, este debe abarcar la mayor cantidad de interrogantes a resolver, por lo que deberá utilizar el mejor instrumento de recolección de datos.
       
     .row.mt-5
       p El objetivo del desarrollo de un buen diseño de instrumentos se enfoca en los resultados que se desean obtener, para establecer las conclusiones que beneficien a las empresas. El proceso es:
@@ -24,15 +24,8 @@
           img(src='@/assets/curso/temas/tema1/img2.png')
       .col-lg-1
 
-    Separador
-
-    #t_1_1
-    
-    .titulo-segundo.color-secundario.mb-5
-      h2 1.1 Componentes del instrumento de recolección
-
-    .row
-      p El desarrollo de instrumentos de recolección de información se rige por diferentes factores, pues se pretende resultados objetivos y claros:
+    h3 Componentes del instrumento de recolección
+    p El desarrollo de instrumentos de recolección de información se rige por diferentes factores, pues se pretende resultados objetivos y claros:
 
     .row.justify-content-center
       .col-lg-10
@@ -97,15 +90,8 @@
             .col-lg
               p Desarrollar una revisión, donde un miembro del equipo de trabajo realice un breve simulacro sobre el instrumento de recolección, encontrando posibles fallas o aciertos en cuanto a la elaboración de este.
 
-    Separador
-
-    #t_1_2
-    
-    .titulo-segundo.color-secundario.mb-5
-      h2 1.2 Tipos de investigación
-
-    .row
-      p Los procesos de investigación son fundamentales para el desarrollo de cualquier empresa, por lo que los objetivos de estos pueden variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes. 
+    h3 Tipos de investigación
+    p Los procesos de investigación son fundamentales para el desarrollo de cualquier empresa, por lo que los objetivos de estos pueden variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes:
 
     .bg--img_03
       .row.justify-content-center.mb-4
@@ -159,12 +145,13 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Investigación cualitativa")
               .col-12
-                p.mb-0 Esta busca entender el comportamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de esta se puede hacer uso de varias estrategias como:
+                p.mb-0 Esta busca entender el compo  rtamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de esta se puede hacer uso de varias estrategias como:
 
                 ul.lista-ul--color.mt-3
                   li 
                     i.fas.fa-angle-right
-                    | Entrevistas individuales on-line / #[i off-line].
+                    p.mb-0 Entrevistas individuales 
+                      |<em> on-line / off-line.</em>
 
                   li 
                     i.fas.fa-angle-right
@@ -207,15 +194,9 @@
             img(src="@/assets/curso/temas/tema1/img12.png", alt="alt").img400.m-auto
 
 
-    Separador
+    h3 Tipos de preguntas
 
-    #t_1_3
-    
-    .titulo-segundo.color-secundario.mb-5
-      h2 1.3 Tipos de preguntas
-
-    .row
-      p Para el desarrollo de los diferentes diseños de instrumentos de investigación, es necesario establecer las preguntas más claras y precisas posibles. Para empezar una pregunta es una expresión interrogativa, que busca conocer o extraer algún tipo de información específica (SENA y UNESCO, 1990). De acuerdo con lo anterior existen diferentes tipos de preguntas entre los que se encuentran:
+    p Para el desarrollo de los diferentes diseños de instrumentos de investigación, es necesario establecer las preguntas más claras y precisas posibles. Para empezar una pregunta es una expresión interrogativa, que busca conocer o extraer algún tipo de información específica. De acuerdo con lo anterior existen diferentes tipos de preguntas entre los que se encuentran:
 
     .tarjeta.tarjeta--azul.p-4.backgrouun-slider
       SlyderA(tipo="b")
@@ -226,7 +207,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas cerradas]
+            h3 Preguntas cerradas
 
             p Por lo general obtienen respuestas cortas o sencillas, también se pueden limitar a un número específico de resultados previamente establecidas por el encuestador, además sirven para desarrollar análisis simples.
 
@@ -237,7 +218,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas abiertas]
+            h3 Preguntas abiertas
 
             p Permiten conocer de una forma más personal las respuestas de los encuestados, donde las personas pueden generar su propio punto de vista respecto al tema que se les esté indagando. También permite conocer a fondo otros factores que involucran las respuestas obtenidas, como las preferencias de un color sobre otro, lo cual puede responder a factores como que le recuerda su infancia o que lo relaciona con algo de su vida cotidiana.
 
@@ -248,7 +229,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas directas]
+            h3 Preguntas directas
 
             p Como su nombre lo indica, este tipo de preguntas se enfocan directamente en su objetivo, es decir, no hacen rodeos ni realizan explicaciones previas. Las preguntas directas son muy útiles para conocer datos específicos se utilizan para establecer conversaciones simples y crear la introducción a cualquier tipo de estudio investigativo.
 
@@ -259,7 +240,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas indirectas]
+            h3 Preguntas indirectas
 
             p Suele ser implementada para crear un sentimiento de confianza y tranquilidad en las personas encuestadas, y de esta forma extraer más información de la que se lograría con otro tipo de pregunta. 
 
@@ -270,7 +251,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas retóricas]
+            h3 Preguntas retóricas
 
             p Permiten generar un respiro en el encuestado y el encuestador, ya que son preguntas que se responden por sí solas y en muchos casos simplemente se usan como forma de pausa activa. No obstante, estas también se pueden emplear para reafirmar algo ya establecido.
 
@@ -281,7 +262,7 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas reflexivas]
+            h3 Preguntas reflexivas
 
             p En esta se indaga a fondo las respuestas de los encuestados, extrayendo las intenciones o pensamientos reales de las personas, esto con el fin de conocer a profundidad todos los factores que se puedan presentar dentro una acción.
 
@@ -292,12 +273,12 @@
               
           .col-md-6.mb-4.mb-md-0
 
-            p #[b Preguntas capciosas]
+            h3 Preguntas capciosas 
 
             p A pesar de no ser tan usadas en el ámbito de mercado, este tipo de preguntas busca confundir al encuestado, por lo que es muy utilizado en el ámbito académico, permitiendo que el estudiante indague y replantee su posición de la mejor forma posible.
        
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.my-5
       
       .col-lg-11.sm-2         
           
@@ -308,13 +289,8 @@
             .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/img20.png').imgdimensioncaj2
-
-    Separador
-
-    #t_1_4
     
-    .titulo-segundo.color-secundario.mb-5
-      h2 1.4 Muestra de recolección
+    h3 Muestra de recolección
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-3
@@ -322,7 +298,7 @@
           img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblaciones que realizan las entidades estatales, ya que, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio (Servicio Nacional de Aprendizaje SENA, 1990).
+        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblaciones que realizan las entidades estatales, por tanto, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio.
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-2

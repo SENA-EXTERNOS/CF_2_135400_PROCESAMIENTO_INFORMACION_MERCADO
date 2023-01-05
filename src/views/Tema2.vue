@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p #[b Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos es posible incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es posible implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones. ]
+        p Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos se debe incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es viable implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones. 
 
     Separador
 
@@ -21,6 +21,7 @@
     
     .titulo-segundo.color-secundario.mb-5
       h2 2.1 Tipos de documentos   
+    p En el siguiente vídeo podrá ver los tipos de documentos existentes que le permitirán la recolección de datos:
 
     figure.mt-5
       .video
@@ -28,8 +29,7 @@
       figcaption Video: Leyenda del video  
 
     .row.mt-3
-      p Existe una variedad de documentos que son implementados por las organizaciones de acuerdo con los diferentes factores y objetivos de estos, también se debe tener en cuenta que estos son vitales para generar un soporte sobre lo establecido por la organización, por esta misma razón se buscan clasificar de diferentes formas, a saber:
-
+      p Se debe tener en cuenta que hay una variedad de documentos que son implementados por las organizaciones de acuerdo con los diferentes factores y objetivos de estos, también se debe tener en cuenta que estos son vitales para generar un soporte sobre lo establecido por la organización, por esta misma razón se buscan clasificar de diferentes formas, a saber:
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-1
@@ -45,7 +45,8 @@
 
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Públicos:] este tipo de documento suele tener mayor relevancia, ya que está realizado por diferentes entes estatales, como lo son un pasaporte, licencia de conducción o título de propiedad.
+            p.mb-0 #[b Públicos:] este tipo de documento suele tener mayor relevancia, ya que está realizado por diferentes entes estatales, como lo son un pasaporte, licencia de conducción o título de propiedad. 
+
       .col-lg-1
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
@@ -58,24 +59,20 @@
             p.mb-0 #[b Iconográficos:] este tipo de documento se caracteriza por contener en su gran mayoría elementos visuales, como lo son fotos o dibujos, también pueden incluir pequeñas fracciones de texto, que expliquen las imágenes representadas dentro del documento.
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Textuales:] en su gran mayoría incluyen textos, como las monografías, ensayos, entre otros. Los documentos textuales suelen tener un carácter bastante formal, por lo que son muy implementados dentro de las organizaciones. 
+            p.mb-0 #[b Textuales:]en su gran mayoría incluyen textos, como las monografías, ensayos, entre otros. Los documentos textuales suelen tener un carácter bastante formal, por lo que son muy implementados dentro de las organizaciones. 
           li 
             i.fas.fa-angle-right
             p.mb-0 #[b Virtuales o digitales:] los documentos virtuales son todos aquellos que se encuentran en una base de datos almacenados en la web, esto puede incluir, textos, imagines, gráficos, vídeos, grabaciones de audio, entre otras. 
-
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Audiovisuales:] este tipo de documentos como su nombre lo indican tratan sobre elementos visuales y sonoros, por lo que en esta categoría se encuentran documentales y vídeos.
-
+            p.mb-0 #[b Audiovisuales:] este tipo de documentos como su nombre lo indican tratan sobre elementos visuales y sonoros, por lo que en esta categoría se encuentran documentales y vídeos. 
           li 
             i.fas.fa-angle-right
             p.mb-0 #[b Sonoros:] documentos de audio o sonoros, como podcast y discos.
 
       .col-lg-1
       
-    .row
-      p #[b La selección del documento ideal para transmitir y sustentar el proceso investigativo y administrativo de cualquier empresa se encuentra ligado con el tipo de comunicación al que se quiere llegar, de igual forma es importante tener en cuenta los requerimientos que exige la empresa, ya que algunas incorporan reglas en el desarrollo de sus documentos como lo son el uso de normas APA, la adición del logotipo de la organización, entre otros.]
-
+    p La selección del documento ideal para transmitir y sustentar el proceso investigativo y administrativo de cualquier empresa se encuentra ligado con el tipo de comunicación al que se quiere llegar, de igual forma es importante tener en cuenta los requerimientos que exige la empresa, ya que algunas incorporan reglas en el desarrollo de sus documentos como lo son el uso de normas APA, la adición del logotipo de la organización, entre otros.
     Separador
 
     #t_2_2
@@ -179,7 +176,7 @@
       h2 2.4 Capacitación del encuestador
 
     .row
-      p El encuestador requiere de elementos clave que lo vuelven idóneo para el desarrollo investigativo. Este tiene la función de guiar y establecer las mejores rutas para llevar a cabo el estudio, ya que la capacitación de los encuestadores varía de acuerdo con el tipo de organización y objetivo de la investigación, algunas de las características primordiales que comparten los procesos de capacitación son los siguientes (Federación Nacional de Comerciantes [Fenalco], 1995):
+      p El encuestador requiere de elementos clave que lo vuelven idóneo para el desarrollo investigativo. Este tiene la función de guiar y establecer las mejores rutas para llevar a cabo el estudio, ya que la capacitación de los encuestadores varía de acuerdo con el tipo de organización y objetivo de la investigación, algunas de las características primordiales que comparten los procesos de capacitación son los siguientes: 
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-4
