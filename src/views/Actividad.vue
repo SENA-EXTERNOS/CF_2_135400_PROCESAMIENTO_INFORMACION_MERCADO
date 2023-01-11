@@ -7,13 +7,15 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/arrastrar-soltar.png", alt="Texto que describa la imagen")
+            img(src="@/assets/template/arrastrar-soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
-        p.mb-4 #[b Objetivo] Esta es una actividad de “Arrastrar y Soltar, donde encontrará 2 columnas: la “#[b Columna A]” - presenta las definiciones vistas a lo largo del componente y la “#[b Columna B]” entrega los posibles conceptos. 
-        p.mb-4 Usted asociará las definiciones con los conceptos correspondientes. Debe seleccionar de la #[b Columna B], arrastrar y soltar la respuesta relacionada con las definiciones dadas en la #[b Columna A]. 
-        p.mb-4 #[b ¡Adelante y mucho ánimo!]
+          h2 Instrumentos de recolección de datos
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+
+        p ¡Adelante y mucho ánimo!
+        
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
