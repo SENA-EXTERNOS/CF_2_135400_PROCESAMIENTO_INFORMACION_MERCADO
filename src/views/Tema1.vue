@@ -7,22 +7,19 @@
         span 1
       h1 Diseño de instrumentos
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El diseño de los instrumentos de investigación de datos define los objetivos de toda investigación y permite establecer el tipo de resultados que se quieren obtener ya sean de carácter cuantitativos o cualitativos, este debe abarcar la mayor cantidad de interrogantes a resolver, por lo que deberá utilizar el mejor instrumento de recolección de datos.
       
-    .row.mt-5
-      p El objetivo del desarrollo de un buen diseño de instrumentos se enfoca en los resultados que se desean obtener, para establecer las conclusiones que beneficien a las empresas. El proceso es:
+    p.mb-5 El objetivo del desarrollo de un buen diseño de instrumentos se enfoca en los resultados que se desean obtener, para establecer las conclusiones que beneficien a las empresas. El proceso es:
 
-    .row
-      .col-lg-1
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
           img(src='@/assets/curso/temas/tema1/img2.png')
-      .col-lg-1
 
     h3 Componentes del instrumento de recolección
     p El desarrollo de instrumentos de recolección de información se rige por diferentes factores, pues se pretende resultados objetivos y claros:
@@ -44,7 +41,7 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/img4.png', alt='').img125
             .col-lg
-              p No limitarse ni excederse en el número de preguntas, ya que el objetivo del instrumento de recolección es extraer la mayor cantidad de respuestas por parte del usuario, es necesario que estas no excedan el número de preguntas, ya que se puede agotar al encuestado y generar resultados erróneos.
+              p No limitarse ni excederse en el número de preguntas, el objetivo del instrumento de recolección es extraer la mayor cantidad de respuestas por parte del usuario, es necesario que estas no excedan el número de preguntas, debido a que se puede agotar al encuestado y generar resultados erróneos.
           .row.justify-content-around.align-items-center.mt-5.mb-5
             .col-lg
               p Realizar instrumentos de recolección cortos y simples, esto puede ir un poco en contra del punto anterior, sin embargo, se enfoca en el desarrollo de preguntas de fácil deducción, donde el encuestado conteste de forma clara. 
