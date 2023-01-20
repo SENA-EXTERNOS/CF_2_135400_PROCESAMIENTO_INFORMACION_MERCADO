@@ -62,7 +62,7 @@
             p.mb-0 #[b Textuales:] en su gran mayoría incluyen textos, como las monografías, ensayos, entre otros. Los documentos textuales suelen tener un carácter bastante formal, por lo que son muy implementados dentro de las organizaciones. 
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Virtuales o digitales:] los documentos virtuales son todos aquellos que se encuentran en una base de datos almacenados en la web, esto puede incluir, textos, imagenes, gráficos, vídeos, grabaciones de audio, entre otras. 
+            p.mb-0 #[b Virtuales o digitales:] los documentos virtuales son todos aquellos que se encuentran en una base de datos almacenados en la web, esto puede incluir, textos, imágenes, gráficos, vídeos, grabaciones de audio, entre otras. 
           li 
             i.fas.fa-angle-right
             p.mb-0 #[b Audiovisuales:] este tipo de documentos como su nombre lo indica tratan sobre elementos visuales y sonoros, por lo que en esta categoría se encuentran documentales y vídeos. 
@@ -81,7 +81,7 @@
       h2 2.2 Instrumentos de recolección
 
     .row
-      p Los instrumentos de recolección de datos son los recursos a los que puede acudir un investigador para obtener un tipo de información específica, existe un numero amplio de instrumentos de recolección, algunos de estos son:
+      p Los instrumentos de recolección de datos son los recursos a los que puede acudir un investigador para obtener un tipo de información específica, existe un número amplio de instrumentos de recolección, algunos de estos son:
         
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Entrevistas" :icono="require('@/assets/curso/temas/tema2/img3.png')")
@@ -161,7 +161,7 @@
             .col-12
               p Durante el desarrollo del proceso, los encuestadores deberán estar al tanto de las respuestas arrojadas por el grupo encuestado, dirigiendo y estableciendo las interrogantes que se desean resolver.
 
-          .row(titulo="Ultimo filtro")
+          .row(titulo="Último filtro")
             .col-12
               p Ya que se pueden presentar errores al seleccionar el grupo encuestado, que únicamente son evidenciados durante el paso anterior, se podrán descartar las personas que no cumplan con el perfil encuestado. 
     
