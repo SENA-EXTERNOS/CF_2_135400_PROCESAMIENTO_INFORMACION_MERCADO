@@ -88,7 +88,7 @@
               p Desarrollar una revisión, donde un miembro del equipo de trabajo realice un breve simulacro sobre el instrumento de recolección, encontrando posibles fallas o aciertos en cuanto a la elaboración de este.
 
     h3 Tipos de investigación
-    p Los procesos de investigación son fundamentales para el desarrollo de cualquier empresa, por lo que los objetivos de estos pueden variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes:
+    p La investigación es fundamental para el desarrollo de cualquier empresa, por lo que los objetivos de esta puede variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes: 
 
     .bg--img_03
       .row.justify-content-center.mb-4
@@ -142,7 +142,7 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Investigación cualitativa")
               .col-12
-                p.mb-0 Esta busca entender el compo  rtamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de esta se puede hacer uso de varias estrategias como:
+                p.mb-0 Esta busca entender el comportamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de esta se puede hacer uso de varias estrategias como:
 
                 ul.lista-ul--color.mt-3
                   li 
@@ -295,7 +295,7 @@
           img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblaciones que realizan las entidades estatales, por tanto, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio.
+        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblaciones que realizan las entidades estatales, ya que, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio.
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-2

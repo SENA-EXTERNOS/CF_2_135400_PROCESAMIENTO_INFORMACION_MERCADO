@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos se debe incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es viable implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones. 
+        p Los documentos funcionan como prueba sobre un determinado acontecimiento o acción, en estos se debe incluir elementos visuales o audiovisuales como lo son textos, fotografías, gráficos, citaciones, grabaciones, vídeos, entre otros. Es viable implementar tanto documentos físicos como digitales, estos últimos cada vez más usados por las organizaciones ya que permiten utilizar el menor número de recursos, disminuyendo el tiempo de procesamiento de solicitudes y comunicaciones.
 
     Separador
 
@@ -59,16 +59,16 @@
             p.mb-0 #[b Iconográficos:] este tipo de documento se caracteriza por contener en su gran mayoría elementos visuales, como lo son fotos o dibujos, también pueden incluir pequeñas fracciones de texto, que expliquen las imágenes representadas dentro del documento.
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Textuales:]en su gran mayoría incluyen textos, como las monografías, ensayos, entre otros. Los documentos textuales suelen tener un carácter bastante formal, por lo que son muy implementados dentro de las organizaciones. 
+            p.mb-0 #[b Textuales:] en su gran mayoría incluyen textos, como las monografías, ensayos, entre otros. Los documentos textuales suelen tener un carácter bastante formal, por lo que son muy implementados dentro de las organizaciones. 
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Virtuales o digitales:] los documentos virtuales son todos aquellos que se encuentran en una base de datos almacenados en la web, esto puede incluir, textos, imagines, gráficos, vídeos, grabaciones de audio, entre otras. 
+            p.mb-0 #[b Virtuales o digitales:] los documentos virtuales son todos aquellos que se encuentran en una base de datos almacenados en la web, esto puede incluir, textos, imagenes, gráficos, vídeos, grabaciones de audio, entre otras. 
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Audiovisuales:] este tipo de documentos como su nombre lo indican tratan sobre elementos visuales y sonoros, por lo que en esta categoría se encuentran documentales y vídeos. 
+            p.mb-0 #[b Audiovisuales:] este tipo de documentos como su nombre lo indica tratan sobre elementos visuales y sonoros, por lo que en esta categoría se encuentran documentales y vídeos. 
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[b Sonoros:] documentos de audio o sonoros, como podcast y discos.
+            p.mb-0 #[b Sonoros:] documentos de audio o sonoros, como <em>podcast</em> y discos.
 
       .col-lg-1
       
