@@ -129,35 +129,28 @@ export default {
     {
       tema: 'Diseño de instrumentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2020). <em>Elementos de una investigación de mercado</em>. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2020). <em>Elementos de una investigación de mercado </em>(video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/pR33mqevijU',
     },
     {
       tema: 'Tipos de investigación',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Clasificación de tipos de investigación según objeto de estudio</em>. YouTube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Clasificación de tipos de investigación según objeto de estudio </em>(video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/GCZ503I6r0k',
     },
     {
       tema: 'Tipos de documentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>FDocumentos digitales</em>. YouTube. ',
-      tipo: 'Video',
-      link: 'https://youtu.be/4flFQ_uh-94',
-    },
-    {
-      tema: 'Documentos digitales',
-      referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Documentos digitales</em>. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022).<em> Documentos digitales</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/4flFQ_uh-94',
     },
     {
       tema: 'Tipos de documentos',
       referencia:
-        'Organización de los datos recopilados (video). YouTube. https://youtu.be/vvjV66aA93Y',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Organización de los datos recopilados </em>(video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/vvjV66aA93Y',
     },
@@ -212,12 +205,12 @@ export default {
     },
     {
       referencia:
-        'Hoyer, W. D., Pieters, R. & Maclnnis, D. J. (2018).<em>Comportamiento del consumidor.</em> Cengage Learning.',
+        'Hoyer, W. D., Pieters, R. & Maclnnis, D. J. (2018). <em>Comportamiento del consumidor.</em> Cengage Learning.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7493',
     },
     {
       referencia:
-        'Kerin, R. A., Hartley, S. W. (2019). <em>Marketing</em>. McGraw-Hill.',
+        'Kerin, R. A. y Hartley, S. W. (2019). <em>Marketing</em>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9915',
     },
     {
