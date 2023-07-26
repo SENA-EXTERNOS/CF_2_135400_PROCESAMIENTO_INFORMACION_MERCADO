@@ -295,7 +295,7 @@
           img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
 
       .col-lg-9
-        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblaciones que realizan las entidades estatales, ya que, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio.
+        p Para el desarrollo de cualquier proceso investigativo es necesario establecer un límite de personas a investigar, esto debido a que, si se plantea estudiar a toda una población se podría generar un resultado tardío y con variaciones; además se debe tener en cuenta que no todas las personas podrán ser parte de un mismo estudio, ya que las características de las personas varían de acuerdo con sus necesidades. A lo anterior se le deben excluir investigaciones poblacionales que realizan las entidades estatales, ya que, en estos casos se plantea buscar al mayor número de personas pertenecientes a un mismo territorio.
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-2
