@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El diseño de los instrumentos de investigación de datos define los objetivos de toda investigación y permite establecer el tipo de resultados que se quieren obtener ya sean de carácter cuantitativos o cualitativos, este debe abarcar la mayor cantidad de interrogantes a resolver, por lo que deberá utilizar el mejor instrumento de recolección de datos.
+        p.mb-0 El diseño de los instrumentos de investigación de datos define los objetivos de toda investigación y permite establecer el tipo de resultados que se quieren obtener ya sean de carácter cuantitativo o cualitativo, este debe abarcar la mayor cantidad de interrogantes a resolver, por lo que deberá utilizar el mejor instrumento de recolección de datos.
       
     p.mb-5 El objetivo del desarrollo de un buen diseño de instrumentos se enfoca en los resultados que se desean obtener, para establecer las conclusiones que beneficien a las empresas. El proceso es:
 
@@ -121,7 +121,7 @@
 
                   li 
                     i.fas.fa-angle-right
-                    | Libertad en establecer si los resultados obtenidos serán de uso privado o  públicos.
+                    | Libertad en establecer si los resultados obtenidos serán de uso privado o público.
 
                 p.mt-3 A pesar de que se tienen grandes ventajas al implementar este tipo de investigación es necesario mencionar que este puede ocupar mayor uso de recursos como tiempo y dinero.
 
@@ -174,7 +174,7 @@
 
                   li 
                     i.fas.fa-angle-right
-                    | Resultados específicos..
+                    | Resultados específicos.
 
                 p.mt-3 Por otro lado, las desventajas que presenta este tipo de investigación incluyen que se realizan en estados controlado, es decir, lugares donde las variables son artificiales, además de ser un proceso largo y costoso.
 

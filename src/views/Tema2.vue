@@ -128,7 +128,7 @@
       h2 2.3 Perfil del encuestado
     
     .row
-      p Es necesario establecer un adecuado perfil del encuestado a quien se le realicen las actividades investigativas, evitando posibles fallas en las respuestas, y generando gastos innecesarios de recursos de las empresas. Las características que se deben cumplir para fijar o establecer un adecuado perfil, se puede realizar mediante algunos pasos, a saber:
+      p Es necesario establecer un adecuado perfil del encuestado a quién se le realicen las actividades investigativas, evitando posibles fallas en las respuestas, y generando gastos innecesarios de recursos de las empresas. Las características que se deben cumplir para fijar o establecer un adecuado perfil, se puede realizar mediante algunos pasos, a saber:
 
     .row.justify-content-center
       .col-lg-4.d-none.d-lg-flex
