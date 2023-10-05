@@ -88,7 +88,7 @@
               p Desarrollar una revisión, donde un miembro del equipo de trabajo realice un breve simulacro sobre el instrumento de recolección, encontrando posibles fallas o aciertos en cuanto a la elaboración de este.
 
     h3 Tipos de investigación
-    p La investigación es fundamental para el desarrollo de cualquier empresa, por lo que los objetivos de esta puede variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes: 
+    p La investigación es fundamental para el desarrollo de cualquier empresa, por lo que los objetivos de esta, puede variar según los requerimientos de cada una de las instituciones, incluyendo la población que se desea estudiar, el presupuesto a implementar y el tipo de investigación que se aplicará. A continuación, se presentan algunos de los tipos de investigación existentes: 
 
     .bg--img_03
       .row.justify-content-center.mb-4
@@ -123,16 +123,16 @@
                     i.fas.fa-angle-right
                     | Libertad en establecer si los resultados obtenidos serán de uso privado o público.
 
-                p.mt-3 A pesar de que se tienen grandes ventajas al implementar este tipo de investigación es necesario mencionar que este puede ocupar mayor uso de recursos como tiempo y dinero.
+                p.mt-3 A pesar de que se tienen grandes ventajas al implementar este tipo de investigación, es necesario mencionar, que puede ocupar mayor uso de recursos como tiempo y dinero.
 
             .row(titulo="Investigación secundaria")
               .col-12
-                p.mb-0 Para el desarrollo de este tipo de investigación es necesario identificar y buscar las bases de información representativas para las empresas, las cuales son mayoritariamente de acceso gratuito, desarrolladas por los diferentes entes estatales o universidades; sin embargo, existen otros tipos de fuentes de información que requieren de un aporte monetario, dichos informes suelen enfocarse en un sector específico. Uno de los beneficios de este tipo de investigación radica en que no es necesario indagar uno a uno los entes para la extracción de información, sino que con solo establecer fuentes de datos podrá conocer respuestas previas realizadas por otras personas o entidades. 
+                p.mb-0 Para el desarrollo de este tipo de investigación es necesario identificar y buscar las bases de información representativas para las empresas, las cuales son mayoritariamente de acceso gratuito, desarrolladas por los diferentes entes estatales o universidades; sin embargo, existen otros tipos de fuentes de información que requieren de un aporte monetario, dichos informes suelen enfocarse en un sector específico. Uno de los beneficios de este tipo de investigación, radica en que no es necesario indagar uno a uno los entes para la extracción de información, sino que con solo establecer fuentes de datos podrá conocer respuestas previas realizadas por otras personas o entidades. 
 
             
             .row(titulo="Investigación cuantitativa")
               .col-12
-                p.mb-0 Como su nombre lo indica este tipo de investigación busca recolectar datos cuantificables, resultados numéricos sobre los diferentes cuestionamientos que se establezcan en la investigación, un ejemplo de esto es conocer el número de mujeres entre los 20 a 25 años que prefieren adquirir productos libres de maltrato animal en la ciudad de Cartagena. De acuerdo con lo anterior es necesario establecer que este tipo de investigación debe ser muy precisa y certera en cuanto a los resultados que arroje, ya que en su mayoría se hará uso de preguntas cerradas, facilitando la recolección de datos.
+                p.mb-0 Como su nombre lo indica este tipo de investigación busca recolectar datos cuantificables, resultados numéricos sobre los diferentes cuestionamientos que se establezcan en la investigación, un ejemplo de esto es conocer el número de mujeres entre los 20 a 25 años que prefieren adquirir productos libres de maltrato animal en la ciudad de Cartagena. De acuerdo con lo anterior, es necesario establecer que este tipo de investigación debe ser muy precisa y certera en cuanto a los resultados que arroje, ya que en su mayoría se hará uso de preguntas cerradas, facilitando la recolección de datos.
 
 
 
@@ -142,7 +142,7 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Investigación cualitativa")
               .col-12
-                p.mb-0 Esta busca entender el comportamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de esta se puede hacer uso de varias estrategias como:
+                p.mb-0 Esta busca entender el comportamiento de determinados grupos, por lo que en su mayoría se desarrolla a un grupo pequeño de personas. La investigación cualitativa tiene mayor flexibilidad, ya que los resultados obtenidos deberán ser analizados de forma subjetiva. Para el desarrollo de este tipo de investigación, se recomienda el uso de varias estrategias como:
 
                 ul.lista-ul--color.mt-3
                   li 
@@ -161,7 +161,7 @@
                
             .row(titulo="Investigación experimental")
               .col-12
-                p.mb-0 También conocida como método científico experimental, este busca resultados únicos obtenidos directamente de procesos experimentales como las pruebas de laboratorio, las cuales son realizadas en entornos científicos. Es importante destacar que este tipo de investigación se utiliza cuando se desea comprobar información relevante o cuando no se poseen bases sobre la misma. Dentro de las principales ventajas que presenta este tipo de investigación se encuentran: 
+                p.mb-0 También conocida como método científico experimental, este busca resultados únicos obtenidos directamente de procesos experimentales como las pruebas de laboratorio, las cuales son realizadas en entornos científicos. Es importante destacar, que este tipo de investigación se utiliza cuando se desea comprobar información relevante o cuando no se poseen bases sobre la misma. Dentro de las principales ventajas que presenta este tipo de investigación se encuentran: 
 
                 ul.lista-ul--color.mt-3
                   li 
@@ -176,15 +176,15 @@
                     i.fas.fa-angle-right
                     | Resultados específicos.
 
-                p.mt-3 Por otro lado, las desventajas que presenta este tipo de investigación incluyen que se realizan en estados controlado, es decir, lugares donde las variables son artificiales, además de ser un proceso largo y costoso.
+                p.mt-3 Por otro lado, las desventajas que presenta este tipo de investigación incluyen que se realizan en estado controlado, es decir, lugares donde las variables son artificiales, además de ser un proceso largo y costoso.
 
             .row(titulo="Investigación motivacional")
               .col-12
-                p.mb-0 Esta se caracteriza por buscar el motivo del porqué las personas se comportan de determinada forma en sus procesos de compra, intentando resolver la incógnita sobre qué motiva a un consumidor a adquirir determinado producto o servicio, y a establecer por qué prefieren una marca sobre otras. Esto permite a las empresas identificar las principales variables para realizar ajustes frente a sus servicios o productos. 
+                p.mb-0 Esta se caracteriza por buscar el motivo del por qué las personas se comportan de determinada forma en sus procesos de compra, intentando resolver la incógnita sobre qué motiva a un consumidor a adquirir determinado producto o servicio, y a establecer por qué prefieren una marca sobre otras. Esto permite, a las empresas identificar las principales variables para realizar ajustes frente a sus servicios o productos. 
 
             .row(titulo="Investigación descriptiva")
               .col-12
-                p.mb-0 La investigación descriptiva se enfoca en describir las situaciones en las que los clientes o consumidores realizan determinada actividad dentro del proceso de mercado, este tipo de investigación solo busca delinear las características de una población específica, midiendo tendencias y comportamientos de estos. Cabe resaltar que es considerada el primer paso para el desarrollo de otras investigaciones, estableciendo las posibles preguntas a realizar.
+                p.mb-0 La investigación descriptiva se enfoca en describir las situaciones en las que los clientes o consumidores realizan determinada actividad dentro del proceso de mercado, este tipo de investigación solo busca delinear las características de una población específica, midiendo tendencias y comportamientos de estos. Cabe resaltar, que es considerada el primer paso para el desarrollo de otras investigaciones, estableciendo las posibles preguntas a realizar.
 
         .col-lg-4
           figure(data-aos="zoom-in")
@@ -351,7 +351,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img25.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 No aleatorio (No Probabilístico)
+            h5.mb-3 No aleatorio (No Probabilístico)
             ul.lista-ul--color.mt-3
               li 
                 i.fas.fa-angle-right
